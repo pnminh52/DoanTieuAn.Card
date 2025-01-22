@@ -2,9 +2,9 @@ import React from "react";
 import { useState } from "react";
 const translate = (key, language) => {
   const translations = {
-    "Đoàn Tiểu Ân": {
-      EN: "Doan Tieu An",
-      VN: "Đoàn Tiểu Ân",
+    "Shu Chan": {
+      EN: "Shu Chan",
+      VN: "Shu Chan",
     },
     "Freelance artist from Vietnam": {
       EN: "Freelance artist from Vietnam",
@@ -42,7 +42,7 @@ const Homepage = () => {
           </div>
           
           <div className="text-center mt-2">
-            <h2 className="font-lora font-semibold mb-0">{translate("Đoàn Tiểu Ân", language)}</h2>
+            <h2 className="font-lora font-semibold mb-0">{translate("Shu Chan", language)}</h2>
             <p className="text-gray-500">{translate("Freelance artist from Vietnam", language)}</p>
           </div>
           {/* <div className="mt-10">
@@ -51,7 +51,7 @@ const Homepage = () => {
           <div className=" flex mt-10 justify-center items-center text-center">
 
       
-              <a href="https://www.facebook.com/doantieuan">
+              <a href="https://www.facebook.com/profile.php?id=100027946364065">
               <svg
                 className="w-[45px] h-[45px]"
                 viewBox="0 0 32 32"
