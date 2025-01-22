@@ -36,7 +36,7 @@ const Homepage = () => {
           <div className="mx-auto w-32 h-32 relative -mt-16 border-2 border-white rounded-full overflow-hidden">
             <img
               className="object-cover object-center w-full h-full"
-              src="https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/471971118_1657780281830168_5766882195636520529_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH9SeUMWAbu_NsaovD6oF7DAPICDM651SUA8gIMzrnVJQ1pswJ9JFV3loy6448yRlE7pJ0ZIh1C7fY6KvdBthAc&_nc_ohc=84rHPXbR3GIQ7kNvgE-bt2r&_nc_oc=AdjOnVxU_mHlJqPE82yXrAsdVsAWEK_aOxZETkyl_GHL0f8AQmqmwyQBpXIl92Uey2Q&_nc_zt=23&_nc_ht=scontent.fhan3-4.fna&_nc_gid=A59Gq9V-5oPoku8e5q8ubi3&oh=00_AYCFXko0YF5hhgFAeI9UZX57uk2uhzoVWmF8Xs5SzUrM8A&oe=6796BEA7"
+              src="../../image_avatar.jpg"
               alt=""
             />
           </div>
